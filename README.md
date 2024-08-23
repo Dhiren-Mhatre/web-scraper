@@ -1,6 +1,4 @@
-Here's the project overview formatted in Markdown for your GitHub repository:
 
-```markdown
 # Nobero Product Scraper and Web Application
 
 ## Overview
